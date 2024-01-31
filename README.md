@@ -1,1 +1,6 @@
-# Amazon--sales-Report
+# Amazon-sales-Report
+![](Salesandmarketing.jpg)
+
+---
+
+### INTRODUCTION
