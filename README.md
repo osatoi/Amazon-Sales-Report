@@ -15,8 +15,10 @@ In today's dynamic business landscape, understanding and leveraging sales data h
 ### DATA CLEANING AND TRANSFORMATION
 The basic data cleaning process involves Remove Duplicates, Handling missing values,outlier detection and handling,data type conversion, normalisation standardisation Data cleaning was performed per column. The Data set appeared to be clean. The quality of each column is 100% with no error or nulls. Below is a preview of the tables:
 
-|Dirty Data sets|Clean Data Sets| 
-|![](dirtydataset.png)|![](cleandataset.png)|
+
+Dirty Data sets|Clean Data Sets 
+:---------------|---------------:
+![](dirtydataset.png)|![](cleandataset.png)
 
 
       
