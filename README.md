@@ -9,6 +9,11 @@ In today's dynamic business landscape, understanding and leveraging sales data h
 ---
 
 ### Problem Statement.
+A forensic detailed analysis were carried out on the 
+
+ - What are the most bought Size?
+ - Which city or cities should we invest in more?
+ - How do we encourage sales?
 
 
 
@@ -40,6 +45,7 @@ Dirty Data sets|Clean Data Sets
  - Varieties of **Colors** and  **Designs** on the **M** sizes and **L** Sizes should be produce as these are the most sold out Sizes.
  - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
  - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of **New products** and **Discounts** as these are the  cities with the highest sales record.
+ - Free shipping should be given to the cities with low shippment to encourage them to buy more.
 
 ---   
 
