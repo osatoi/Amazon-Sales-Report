@@ -39,8 +39,8 @@ Dirty Data sets|Clean Data Sets
 ### Conclusion and recommendations
 
 
-####### My goal is to provide value to the stakeholders and not just to build reports and dashboard.
+###### My goal is to provide value to the stakeholders and not just to build reports and dashboard.
 
-Thank You
+# Thank You
 
 
