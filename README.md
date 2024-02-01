@@ -36,7 +36,10 @@ Dirty Data sets|Clean Data Sets
 
 ![](top10Statewiththehighestsales.png)
 
-### Conclusion and recommendations
+### Conclusion and recommendations.
+ - Varieties of **M** sizes and **L** Sizes should be produce as these are the most sold out clothes.
+ - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
+ - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of New products and Discounts as these are the  cities with the highest sales record.
 
 
 ###### My goal is to provide value to the stakeholders and not just to build reports and dashboard.
