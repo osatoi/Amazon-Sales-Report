@@ -39,7 +39,7 @@ Dirty Data sets|Clean Data Sets
 ### Conclusion and recommendations.
  - Varieties of **Colors** and  **Designs** on the **M** sizes and **L** Sizes should be produce as these are the most sold out Sizes.
  - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
- - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of ---New products--- and --Discounts-- as these are the  cities with the highest sales record.
+ - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of **New products** and **Discounts** as these are the  cities with the highest sales record.
 
 
 ###### My goal is to provide value to the stakeholders and not just to build reports and dashboard.
