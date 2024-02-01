@@ -41,6 +41,8 @@ Dirty Data sets|Clean Data Sets
  - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
  - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of **New products** and **Discounts** as these are the  cities with the highest sales record.
 
+---   
+
 
 ###### My goal is to provide value to the stakeholders and not just to build reports and dashboard.
 
