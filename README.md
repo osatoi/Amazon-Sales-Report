@@ -10,7 +10,7 @@ In today's dynamic business landscape, understanding and leveraging sales data h
 ---
 
 ### Problem Statement.
-A forensic detailed analysis were carried out on a company in india, this company needed to build an headquarter in india, My team and I Were entrusted with the task of predicting the best location(i.e city) for the headquarter. 
+A forensic detailed analysis was carried out on a company in india, this company needed to build an headquarter in india, My team and I Were entrusted with the task of predicting the best location(i.e city) for the headquarter. 
 
 After critical thoughts, some questions needed an answer:
  - Where is The best Location to build an Headquarters?
