@@ -18,9 +18,12 @@ After critical thoughts, some questions needed an answer:
  - How do we encourage sales generally?
 
 ---
+
 ### Data Sourcing.
 Data was extracted from the excel work sheet into the Jupyter note using the Python's pandas library.
 Data was normalised; that is,the information were categorically separated into different colums.
+
+
 ---
 
 ### DATA CLEANING AND TRANSFORMATION
