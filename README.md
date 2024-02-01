@@ -13,6 +13,7 @@ In today's dynamic business landscape, understanding and leveraging sales data h
 A forensic detailed analysis were carried out on a company in india, this company needed to build an headquarter in india, My team and I Were entrusted with the task of predicting the best location(i.e city) for the headquarter. 
 
 After critical thoughts, some questions needed an answer:
+ - Where is The best Location to build an Headquarters?
  - What are the most bought Size?
  - Which city or cities should we invest in more?
  - How do we encourage sales generally?
@@ -20,7 +21,7 @@ After critical thoughts, some questions needed an answer:
 ---
 
 ### Data Sourcing.
-Data was extracted from the excel work sheet into the Jupyter note using the Python's pandas library.
+Data were extracted from the excel work sheet into the Jupyter note using the Python's pandas library.
 Data was normalised; that is,the information were categorically separated into different colums.
 
 
@@ -37,6 +38,7 @@ Dirty Data sets|Clean Data Sets
 ---
 
 ### Data Analysis and Visualisation.
+
 Analysis were done using different analytical skills while Exploratory Data and Visualisation were carried with the Python's Seaborn and matplotlib libraries respectively.
 ---
 
