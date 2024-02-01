@@ -10,11 +10,12 @@ In today's dynamic business landscape, understanding and leveraging sales data h
 ---
 
 ### Problem Statement.
-A forensic detailed analysis were carried out on the 
+A forensic detailed analysis were carried out on a company in india, this company needed to build an headquarter in india, My team and I Were entrusted with the task of predicting the best location(i.e city) for the headquarter. 
 
+After critical thoughts, some questions needed an answer:
  - What are the most bought Size?
  - Which city or cities should we invest in more?
- - How do we encourage sales?
+ - How do we encourage sales generally?
 
 
 
@@ -43,6 +44,7 @@ Dirty Data sets|Clean Data Sets
 ![](top10Statewiththehighestsales.png)
 
 ### Conclusion and recommendations.
+ - The city of **MAHARASHTRA** is the best location to build the office Headquarters.
  - Varieties of **Colors** and  **Designs** on the **M** sizes and **L** Sizes should be produce as these are the most sold out Sizes.
  - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
  - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of **New products** and **Discounts** as these are the  cities with the highest sales record.
