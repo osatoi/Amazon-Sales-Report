@@ -21,6 +21,7 @@ After critical thoughts, some questions needed an answer:
 ### Data Sourcing.
 Data was extracted from the excel work sheet into the Jupyter note using the Python's pandas library.
 Data was normalised; that is,the information were categorically separated into different colums.
+---
 
 ### DATA CLEANING AND TRANSFORMATION
 The basic data cleaning process involves Remove Duplicates, Handling missing values,outlier detection and handling,data type conversion and normalisation standardisation. Data cleaning was performed per column. The Data set appeared to be clean. The quality of each column is 100% with no error or nulls. Below is a preview of the data set before and after the data cleaning opreations:
@@ -34,6 +35,7 @@ Dirty Data sets|Clean Data Sets
 
 ### Data Analysis and Visualisation.
 Analysis were done using different analytical skills while Exploratory Data and Visualisation were carried with the Python's Seaborn and matplotlib libraries respectively.
+---
 
       
 
