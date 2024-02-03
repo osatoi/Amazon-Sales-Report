@@ -97,7 +97,8 @@ Analysis were done using different analytical skills while Exploratory Data and 
 ---
 
 
-![](top10Statewiththehighestsales.png)
+![](top10Statewiththehighestsales.png)|![](pie.png)
+:-------------------------------------|------------:
 
 ### CONCLUSION AND RECOMMENDATIONS.
  - The city of **MAHARASHTRA** is the best location to build the office Headquarters.
