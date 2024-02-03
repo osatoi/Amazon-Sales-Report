@@ -39,6 +39,7 @@ Dirty Data sets|Clean Data Sets
 ---
 
 ### PYTHON CODES.
+
 Python scripts were written as the needs arises to efficiently and effectively model the data set.
 ---
 
