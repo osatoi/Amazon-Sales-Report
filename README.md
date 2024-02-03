@@ -63,6 +63,13 @@ df.head()
 df.shape()
 
 #check for missing values and drop if there is any
+#NB: If you must drop Nan, use df.dropna(How='all')
+
+#check for duplicates
+df.duplicated()
+#if any duplicates
+df.drop_duplicates()
+
 df.isna().sum()
 df.dropna(inplace=True)
 
