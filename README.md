@@ -63,8 +63,8 @@ Analysis were done using different analytical skills while Exploratory Data and 
 
 ### Conclusion and recommendations.
  - The city of **MAHARASHTRA** is the best location to build the office Headquarters.
- - Varieties of **Colors** and  **Designs** on the **M** sizes and **L** Sizes should be produce as these are the most sold out Sizes.
- - Discount/ Sales should be done on **M** and **L** sizes respectively to encourage sales.
+ - Varieties of **Colors** and  **Designs** on the **M**,  **L** and **XL** Sizes should be produce as these are the most sold out Sizes.
+ - Discount/ Sales should be done on **M**, **L** and **XL** sizes respectively to encourage sales.
  - The cities of **MAHARASHTRA** And **KARNATAKA** should be consider first in terms of **New products** and **Discounts** as these are the  cities with the highest sales record.
  - Free shipping should be given to the cities with low shippment to encourage them to buy more.
 
