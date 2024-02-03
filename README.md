@@ -44,8 +44,7 @@ Python scripts were written as the needs arises to efficiently and effectively m
 ---
 
 
-
-'''python
+~~~python
 
 # import neccessary libraries
 import pandas as pd
@@ -76,7 +75,7 @@ df['ship-postal-code'] = df['ship-postal-code'].astype(int)
 # convert the date column to the date format
 df['Date'] = pd.to_datetime(df['Date'])
 
-'''
+~~~
 
 ### DATA ANALYSIS AND VISUALISATION.
 
