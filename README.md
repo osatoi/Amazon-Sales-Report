@@ -38,6 +38,10 @@ Dirty Data sets|Clean Data Sets
 
 ---
 
+### Python Codes.
+Python scripts were written as the needs arises to efficiently and effectively model the data set.
+---
+
 ### Data Analysis and Visualisation.
 
 Analysis were done using different analytical skills while Exploratory Data and Visualisation were carried with the Python's Seaborn and matplotlib libraries respectively.
