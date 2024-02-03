@@ -39,13 +39,49 @@ Dirty Data sets|Clean Data Sets
 ---
 
 ### PYTHON CODES.
-
 Python scripts were written as the needs arises to efficiently and effectively model the data set.
+
 ---
+
+
+
+'''python
+
+# import neccessary libraries
+import pandas as pd
+import seaborn as sns 
+import matplotlib.pyplot as plt
+%matplotlib inline
+import numpy as np
+
+# load the csv file
+df = pd.read_csv('Amazon Sale Report.csv', encoding='unicode_escape')
+
+# check key informations about your data
+df.shape
+df.info()
+df.head()
+df.shape()
+
+#check for missing values and drop if there is any
+df.isna().sum()
+df.dropna(inplace=True)
+
+# drop empty columns
+df.drop(['New','PendingS'],axis =1, inplace= True)
+
+# convert dtypes to their appropiate dtypes
+df['ship-postal-code'] = df['ship-postal-code'].astype(int)
+
+# convert the date column to the date format
+df['Date'] = pd.to_datetime(df['Date'])
+
+'''
 
 ### DATA ANALYSIS AND VISUALISATION.
 
 Analysis were done using different analytical skills while Exploratory Data and Visualisation were carried with the Python's Seaborn and matplotlib libraries respectively.
+
 ---
 
       
