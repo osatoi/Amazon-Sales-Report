@@ -10,7 +10,7 @@ stay tuned :😉
 ---
 ---
 
-### Problem Statement.
+### PROBLEM STATEMENT.
 A forensic detailed analysis was carried out on a company in Asia Continent, this company needed to build an headquarter in one of the countries big cities, My team and I Were entrusted with the task of predicting the best location(i.e city) for the headquarter. 
 
 After critical thoughts, some questions needed an answer:
@@ -21,7 +21,7 @@ After critical thoughts, some questions needed an answer:
 
 ---
 
-### Data Sourcing.
+### DATA SOURCES.
 Data were extracted from the excel work sheet into the Jupyter note using the Python's pandas library.
 Data was normalised; that is,the information were categorically separated into different colums.
 
@@ -38,11 +38,11 @@ Dirty Data sets|Clean Data Sets
 
 ---
 
-### Python Codes.
+### PYTHON CODES.
 Python scripts were written as the needs arises to efficiently and effectively model the data set.
 ---
 
-### Data Analysis and Visualisation.
+### DATA ANALYSIS AND VISUALISATION.
 
 Analysis were done using different analytical skills while Exploratory Data and Visualisation were carried with the Python's Seaborn and matplotlib libraries respectively.
 ---
@@ -61,7 +61,7 @@ Analysis were done using different analytical skills while Exploratory Data and 
 
 ![](top10Statewiththehighestsales.png)
 
-### Conclusion and recommendations.
+### CONCLUSION AND RECOMMENDATIONS.
  - The city of **MAHARASHTRA** is the best location to build the office Headquarters.
  - Varieties of **Colors** and  **Designs** on the **M**,  **L** and **XL** Sizes should be produce as these are the most sold out Sizes.
  - Discount/ Sales should be done on **M**, **L** and **XL** sizes respectively to encourage sales.
