@@ -29,7 +29,7 @@ Data was normalised; that is,the information were categorically separated into d
 ---
 
 ### DATA CLEANING AND TRANSFORMATION
-The basic data cleaning process involves Remove Duplicates, Handling missing values,outlier detection and handling,data type conversion and normalisation standardisation. Data cleaning was performed per column. The Data set appeared to be clean. The quality of each column is 100% with no error or nulls. Below is a preview of the data set before and after the data cleaning opreations:
+The basic data cleaning process involves Remove Duplicates, Handling missing values,outlier detection and handling,data type conversion and normalisation standardisation. Data cleaning was performed per column. The Data set appeared to be clean. The quality of each column is 100% with no error or nulls. Below is a preview of the data set before and after the data cleaning opreations. These were done to ensure Data consistency and Data integrity.
 
 
 Dirty Data sets|Clean Data Sets 
